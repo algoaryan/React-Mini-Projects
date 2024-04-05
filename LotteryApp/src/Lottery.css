@@ -1,0 +1,11 @@
+.ticket {
+  border: 1px solid yellow;
+  border-radius: 25px;
+  margin: 0.5rem;
+}
+
+.btn{
+  border: 1px solid gray;
+  padding: 0.3rem;
+  margin: 5px;
+}
