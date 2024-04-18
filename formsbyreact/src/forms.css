@@ -1,0 +1,52 @@
+h1 {
+  font-family: Ariel, sans-serif;
+  fonst-size: 2rem;
+  font-weight: 700;
+  line-height: 1.3;
+  margin-bottom: 0.5rem;
+  items-align: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.container {
+  border: 1px solid white;
+  border-radius: 10px;
+  padding: 1rem;
+  margin: 1rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  background-color: #111;
+  color: white;
+}
+input {
+  color: white;
+  margin: 8px;
+  padding: 4px;
+  border: 1px solid white;
+  border-radius: 10px;
+  items-align: center;
+  justify-content: absolute;
+  text-align: center;
+  display: inline-block;
+}
+
+label {
+  margin: 2px;
+  padding: 4px;
+  items-align: left;
+  justify-content: left;
+  text-align: left;
+}
+button {
+  border: 1px solid white;
+  margin: 12px;
+  padding: 4px;
+  border-radius: 10px;
+}
+#name,
+#email,
+#password,
+#username {
+  margin: 4px;
+}
