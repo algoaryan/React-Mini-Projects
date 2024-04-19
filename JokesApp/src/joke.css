@@ -1,0 +1,26 @@
+.container {
+  border: 1px solid white;
+  border-radius: 15px;
+  padding: 10px;
+  margin: 10px;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #222;
+  color: white;
+  font-size: 1.5rem;
+  text-align: center;
+}
+.setup {
+  color: red;
+  font-size: 1.5rem;
+  text-align: center;
+}
+.delivery {
+  color: yellow;
+  font-size: 1.5rem;
+  text-align: center;
+}
